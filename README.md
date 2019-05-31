@@ -71,3 +71,6 @@ My source codes and files can be segmented into three parts.
 (5) Pass the residual data through the epoch247 model and get your result.
 
 (6) Add the output result to the 21st ARIMA forecast value to get your final result! (NOTE: Rarely, the value might be out of bound; that is, smaller than -1 or bigger than 1. If that's the case, apply MIN(prediction, 1) or MAX(prediction, -1) )
+
+
+https://blog.quantinsti.com/optimal-portfolio-construction-machine-learning/
